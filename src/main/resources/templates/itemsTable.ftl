@@ -12,7 +12,7 @@
 
 <h3>Car</h3>
 <br>
-<a href="/index.html" class="btn btn-outline-primary">Back</a>
+<a href="/index.html" class="btn btn-primary">Back</a>
 <div>
 
     <table class="table table-striped table-dark">
@@ -45,7 +45,7 @@
         </#list>
 
     </table>
-    <a href="/web/item/create" class="btn btn-outline-warning">Create</a>
+    <a href="/web/item/create" class="btn btn-warning">Create</a>
 </div>
 </body>
 </html>
